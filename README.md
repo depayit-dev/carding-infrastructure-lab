@@ -1,6 +1,6 @@
 # 💳 Carding Infrastructure Lab – SME Knowledge Base
 
-> By: Nuttapong Faithong (Red Team / Threat Intelligence Specialist)
+> By: depayit-dev (Red Team / Threat Intelligence Specialist)
 
 This project shares a real-world research lab in carding system analysis, including:
 - BIN Structure Mapping (6/8-digit)
