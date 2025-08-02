@@ -18,16 +18,19 @@ This project shares a real-world research lab in carding system analysis, includ
 - SOCKS5/VPN/VM Chain Setup
 - AI-Fraud Risk Signal Analysis
 - Drop Address Tiering & Use Case
+- System Banking and CreditCard
+- 
 
 ---
 
 ## 📁 Structure
 
-- `bin-mapping/`: วิเคราะห์ BIN + Success Rate
+- 'System Bank&CreditCard'/ เจาะลึกระบบธนาคารและบัตรเครดิต
 - `lab-setup/`: การตั้งค่าห้องแล็บ, Cloaking, Spoofing
 - `anti-fraud-bypass/`: วิเคราะห์ระบบ AI และจุดอ่อน
 - `darknet-insight/`: ความเข้าใจตลาดใต้ดิน Fullz & Drop
-
+- 'Carding info/ : DarkNet วงการบัตรเครดิต CC, ตลาดมืดซื้อขายบัตรเครดิต
+- '
 ---
 
 > 🔒 This repo is for educational & research purposes only.
